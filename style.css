@@ -1,0 +1,161 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.D1{ 
+    padding-left: 42%;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+
+}
+.b1{
+    padding-left: 40%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.container{
+    background-color: rgb(221, 231, 231);
+    height: 40%;
+}
+.container2{
+    max-width: 20%;
+    height: 80%;
+    padding-left: 10rem;
+}
+.life3{
+    padding-left: 7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+
+}
+.life{
+    padding-left: 28rem;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    padding-top: 8rem;
+    font-weight: 600;
+}
+.life2{
+    padding-left: 20rem;
+    padding-right: 20rem;
+    padding-top: 15px;
+    padding-top: 5rem;
+}
+.Drlife{
+    background-color: #c5cccc;
+}
+.blife{
+    padding-left: 20rem;
+    padding-right: 20rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    padding-top: 10rem;
+}
+.pm{
+    padding-left: 20rem;
+    padding-top: 1rem;
+}
+.final{
+    padding-left: 15rem;
+    padding-top: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+@media screen and (max-width:450px) {
+    .D1{
+        padding-left: 0%;
+        padding-right: 0%;
+        padding-left: 7rem;
+}
+.b1{
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-left: 5rem;
+}
+.container2{
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-right: 5rem;
+}
+.container2 .img-dr{
+    max-width: 30rem;
+    max-height: 30rem;
+}
+.container89 .life3{
+    padding: 0%;
+    padding-left: 2.5rem;
+
+}
+.Drlife .life{
+    padding: 0%;
+    padding-top: 5rem;
+    padding-left: 3rem;
+}
+.Drlife .life2{
+    padding: 0%;
+    padding-top: 5rem;
+    padding-left: 2.5rem;
+    padding-right: 0.5rem;
+}
+.Drlife .blife{
+    padding: 0%;
+    padding-top: 2rem;
+    padding-left: 2rem;
+
+}
+.Drlife .pm{
+    padding: 0%;
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
+.Drlife .final{
+    padding: 0%;
+    padding-left: 2.5rem;
+    padding-right: 1rem;
+}
+ .life7{
+    padding-left: 3rem;
+}
+}
+@media screen and (min-width:900px) {
+    .container2 .img-dr{
+        max-width: 55rem;
+        max-height: 55rem;
+        padding-right: 10rem;
+    }
+    .container89 .life3{
+        padding: 0%;
+        padding-left: 4rem;
+    }
+    .Drlife .life{
+        padding: 0%;
+        padding-top: 3rem;
+        padding-left: 20rem;
+    }
+    .Drlife .life2{
+        padding-left: 8rem;
+        padding-right: 8rem;
+    }
+    .Drlife .blife{
+        padding: 0%;
+        padding-left: 10rem;
+        padding-top: 2rem;
+    }
+    .Drlife .final{
+        padding: 0%;
+        padding-left: 3rem;
+    }
+    .Drlife .life7{
+        padding-left: 20rem;
+    }
+
+    }
+    
+    
