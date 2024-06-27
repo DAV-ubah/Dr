@@ -68,16 +68,24 @@
     font-size: x-large;
     font-weight: bold;
 }
-@media screen and (max-width:450px) {
+@media screen and (max-width:422px) {
     .D1{
         padding-left: 0%;
         padding-right: 0%;
-        padding-left: 7rem;
+        padding-right: 4rem;
+        padding-left: 5rem;
+        font-size: x-large;
+        font-weight: bold;
+        padding-bottom: 1rem;
 }
 .b1{
     padding-left: 0%;
     padding-right: 0%;
+    padding-right: 5rem;
     padding-left: 5rem;
+    font-size: small;
+    padding-bottom: 0.75rem;
+    
 }
 .container2{
     padding-left: 0%;
@@ -85,24 +93,29 @@
     padding-right: 5rem;
 }
 .container2 .img-dr{
-    max-width: 30rem;
-    max-height: 30rem;
+    max-width: 25rem;
+    max-height: 25rem;
 }
 .container89 .life3{
     padding: 0%;
-    padding-left: 2.5rem;
-
+    font-size: x-small;
+    padding-left: 1rem;
+}
+.tx{
+    padding-left: 2rem;
+    font-size: small;
 }
 .Drlife .life{
     padding: 0%;
-    padding-top: 5rem;
+    padding-top: 10rem;
     padding-left: 3rem;
+    padding-right: 0.75rem;
 }
 .Drlife .life2{
     padding: 0%;
     padding-top: 5rem;
-    padding-left: 2.5rem;
-    padding-right: 0.5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
 }
 .Drlife .blife{
     padding: 0%;
@@ -121,7 +134,15 @@
     padding-right: 1rem;
 }
  .life7{
-    padding-left: 3rem;
+    padding-left: 8rem;
+}
+.flife{
+    padding-right: 0.85rem;
+}
+.blife9{
+    padding: 0%;
+    padding-right: 2rem;
+    padding-left: 2rem;
 }
 }
 @media screen and (min-width:900px) {
